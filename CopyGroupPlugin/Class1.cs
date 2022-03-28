@@ -78,7 +78,6 @@ namespace CopyGroupPlugin
             }
             return null;
         }
-
     }
 
     public class GroupPickFilter : ISelectionFilter
